@@ -8,7 +8,7 @@ you can use it as a local eventbus or a mediator for [CQRS](https://en.wikipedia
 
 ## Install
 ```
-go get github.com/goxiaoy/go-eventbus
+go get github.com/jace996/go-eventbus
 ```
 
 ## Usage

@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"fmt"
-	eventbus "github.com/goxiaoy/go-eventbus"
+	eventbus "github.com/jace996/go-eventbus"
 )
 
 type TestEvent1 struct {
